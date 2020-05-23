@@ -1,6 +1,6 @@
 export default {
   
   greetings: {
-    Happy Eid Mubarak
+    "Happy Eid Mubarak"
   }
 };
